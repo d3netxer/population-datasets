@@ -10,9 +10,7 @@
 
 ####Literature Review
 
-#####High Resolution Urban Feature Extraction for Global
-Population Mapping using High Performance
-Computing
+#####High Resolution Urban Feature Extraction for Global Population Mapping using High Performance Computing
 V. Vijayaraj, E. A. Bright, B. L. Bhaduri
 Computational Sciences and Engineering Division, Oak Ridge National Laboratory 
 
