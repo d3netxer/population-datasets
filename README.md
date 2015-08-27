@@ -53,6 +53,12 @@ WorldPop utilises satellite imagery for mapping settlements - specifically, 30m 
 
 ####Methods: http://www.worldpop.org.uk/data/methods/
 
+Land cover-based mapping approach currently forms the basis for the majority of WorldPop datasets, but is now being replaced by an alternative 'Random Forest' mapping approach described by Stevens et al (2015):
+
+PLoS One. 2015 Feb 17;10(2):e0107042. doi: 10.1371/journal.pone.0107042. eCollection 2015.
+Disaggregating census data for population mapping using random forests with remotely-sensed and ancillary data.
+Stevens FR1, Gaughan AE1, Linard C2, Tatem AJ3.
+
 ####data resolution and coverage: South America, Africa, Asia (http://www.worldpop.org.uk/data/) 
 
 ####data availability: Open data
