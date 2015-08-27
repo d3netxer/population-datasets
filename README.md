@@ -49,11 +49,19 @@ literature but most of these algorithms are compute intensive.
 ###website: http://www.worldpop.org.uk/
 ####description: The WorldPop project was initiated in October 2013 to combine the AfriPop, AsiaPop and AmeriPop population mapping projects. It aims to provide an open access archive of spatial demographic datasets for Central and South America, Africa and Asia to support development and health applications. The methods used are designed with full open access and operational application in mind, using transparent, fully documented and shareable methods to produce easily updatable maps with accompanying metadata.
 
+WorldPop utilises satellite imagery for mapping settlements - specifically, 30m spatial resolution Landsat Enhanced Thematic Mapper (ETM) satellite imagery, and increasingly a range of other sources. Increasingly, WorldPop is collaborating with groups undertaking high resolution settlement mapping, and integrating these datasets into the modelling process - these include the Global Human Settlement Layer and the Global Urban Footprint .
+
+####Methods: http://www.worldpop.org.uk/data/methods/
+
 ####data resolution and coverage: South America, Africa, Asia (http://www.worldpop.org.uk/data/) 
 
 ####data availability: Open data
 
-##UN Human Settlement data
+##Global Human Settlement Layer
+###website:http://ghslsys.jrc.ec.europa.eu/
+####description:The Global Human Settlement Layer (GHSL) is developed and maintained by the Joint Research Centre, the European Commission's in house science service.
+The GHSL proposes a new way to map, analyze, and monitor human settlements and the urbanization in the 21st century. 
+GHSL integrates several available sources reporting about the global human settlement phenomena, with new information extracted from available remotely sensed (RS) imagery. So far, the GHSL is the largest and most complete known experiment on automatic image information retrieval using high and very high remotely sensed image data input. The GHSL automatic image information extraction workflow integrates multi-resolution (0.5m-10m) multi-platform, multi-sensor (pan, multispectral), and multi-temporal image data.
 
 ##Census International Programs
 
