@@ -63,6 +63,10 @@ WorldPop utilises satellite imagery for mapping settlements - specifically, 30m 
 The GHSL proposes a new way to map, analyze, and monitor human settlements and the urbanization in the 21st century. 
 GHSL integrates several available sources reporting about the global human settlement phenomena, with new information extracted from available remotely sensed (RS) imagery. So far, the GHSL is the largest and most complete known experiment on automatic image information retrieval using high and very high remotely sensed image data input. The GHSL automatic image information extraction workflow integrates multi-resolution (0.5m-10m) multi-platform, multi-sensor (pan, multispectral), and multi-temporal image data.
 
+##Global Urban Footprint
+###http://www.dlr.de/eoc/en/desktopdefault.aspx/tabid-9628/16557_read-40454/
+####description:In this framework, the objective of the “Global Urban Footprint” (GUF) project is the worldwide mapping of settlements with unprecedented spatial resolution of 0.4 arcsec (~12 m). A total of 180 000 TerraSAR-X and TanDEM-X scenes have been processed to create the GUF. 
+
 ##Census International Programs
 
 ##Global Rural-Urban Mapping Project (GRUMP)
