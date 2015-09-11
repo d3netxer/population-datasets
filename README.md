@@ -103,3 +103,18 @@ studies is that an appreciation or estimate of the level of population which goe
 helpful to interpret the results. Given the very wide range of levels of development and use of
 lighting across the world, this study seeks understand what level of population can be detected in
 different regions of the world.
+
+
+##Esri’s World Population Estimate
+###website: http://www.arcgis.com/home/item.html?id=ac0401d78fa24a10a9151ffe50f35afe, http://blogs.esri.com/esri/esri-insider/2015/03/25/map-gives-new-insights-into-global-population/
+####description: This layer was created with a model that combines imagery, road intersection density, populated places, and urban foot prints to create a likelihood surface. The likelihood surface is then used to create a raster of population with a cell size of 0.00221 degrees (approximately 250 meters).
+ 
+The population raster is created using Dasymetric cartographic methods to allocate the population values in over 1.6 million census polygons covering the world. The population of each polygon was normalized to the 2013 United Nations population estimates by country.
+
+Each cell in this layer has an integer value depicting the number of people that are likely to reside in that cell. Tabulations based on these values should result in population totals that more accurately reflect the population of areas of several square kilometers.
+
+This layer has global coverage and was published by Esri in 2014.
+
+####data resolution and coverage: World Coverage, cell size of 0.00221 degrees (approximately 250 meters)
+
+####data availability: UNK
