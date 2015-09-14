@@ -59,6 +59,8 @@ PLoS One. 2015 Feb 17;10(2):e0107042. doi: 10.1371/journal.pone.0107042. eCollec
 Disaggregating census data for population mapping using random forests with remotely-sensed and ancillary data.
 Stevens FR1, Gaughan AE1, Linard C2, Tatem AJ3.
 
+####What are random forests? (http://www.quora.com/Random-Forests/How-do-random-forests-work-in-laymans-terms) 
+
 ####data resolution and coverage: South America, Africa, Asia (http://www.worldpop.org.uk/data/) 
 
 ####data availability: Open data
