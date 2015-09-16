@@ -120,3 +120,8 @@ This layer has global coverage and was published by Esri in 2014.
 ####data resolution and coverage: World Coverage, cell size of 0.00221 degrees (approximately 250 meters)
 
 ####data availability: UNK
+
+
+##Comparing Population Datasets
+
+###Due to ... Landsat and WorldPop are the best datasets. Unfortunately to date there has been no research comparing the two against each other. 
