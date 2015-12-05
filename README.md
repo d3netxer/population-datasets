@@ -125,3 +125,8 @@ This layer has global coverage and was published by Esri in 2014.
 ##Comparing Population Datasets
 
 ###Due to ... Landsat and WorldPop are the best datasets. Unfortunately to date there has been no research comparing the two against each other. 
+
+##Good Resources:
+
+###Dr. John Week's Population Blog
+####http://weekspopulation.blogspot.com/
